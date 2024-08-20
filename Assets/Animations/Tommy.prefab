@@ -763,6 +763,7 @@ GameObject:
   - component: {fileID: 61670838616858072}
   - component: {fileID: 4397659078554143901}
   - component: {fileID: 3166865765064118214}
+  - component: {fileID: 5529152840749980072}
   m_Layer: 0
   m_Name: Tommy
   m_TagString: Untagged
@@ -780,7 +781,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -3.85, y: -1.04, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 4400038500744942}
@@ -892,6 +893,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 19c7c16d45bc39249ae44e37a6fafad7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &5529152840749980072
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1940654426450688}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 230ecd2486058084bb0fb2ebeef98f0d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1966007364148674
