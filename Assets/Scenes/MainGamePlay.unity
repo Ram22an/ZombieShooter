@@ -224,18 +224,6 @@ PrefabInstance:
       value: Tommy
       objectReference: {fileID: 0}
     - target: {fileID: 4668976323760658, guid: c245a5e2436e2fd4c8a3a17b13740fe8, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4668976323760658, guid: c245a5e2436e2fd4c8a3a17b13740fe8, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4668976323760658, guid: c245a5e2436e2fd4c8a3a17b13740fe8, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4668976323760658, guid: c245a5e2436e2fd4c8a3a17b13740fe8, type: 3}
       propertyPath: m_LocalPosition.x
       value: -3.85
       objectReference: {fileID: 0}
